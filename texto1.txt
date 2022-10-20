@@ -1,1 +1,1 @@
-ECHO est  activado.
+Añadiendo un poco de texto a este archivo.ECHO est  activado.
